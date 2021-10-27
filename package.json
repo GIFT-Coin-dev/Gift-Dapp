@@ -28,6 +28,7 @@
     "@tailwindcss/aspect-ratio": "^0.3.0",
     "@walletconnect/web3-provider": "^1.6.5",
     "autoprefixer": "^10.3.7",
+    "bufferutil": "^4.0.5",
     "ethers": "^5.4.6",
     "next": "latest",
     "postcss": "^8.3.11",
